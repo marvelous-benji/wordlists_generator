@@ -1,1 +1,1 @@
-This is an interactive wordlists generator that generates a wordlists for bruteforcing passwords.
+This is a simple script that automate urlencoding for evading  some web filters
